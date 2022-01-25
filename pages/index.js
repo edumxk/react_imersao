@@ -4,4 +4,5 @@ export default function Home(){
             Pedacinho da tela
         </div>
     )
-}
+}  git config --global user.email "eduardocsteam@gmail.com"
+git config --global user.name "Eduardo Patrick"
